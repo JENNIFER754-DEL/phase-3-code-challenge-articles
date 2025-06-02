@@ -49,6 +49,7 @@ This project models the relationships between **Authors**, **Articles**, and **M
 
 ### 1. Clone the repository
 git clone <https://github.com/JENNIFER754-DEL/phase-3-code-challenge-articles>
+
 cd phase-3-code-challenge-articles
 ### 2. Activate the virtual environment
 If you haven't created it yet:
